@@ -1,0 +1,5 @@
+{
+  "name": " RouteScout",
+  "description": "A smart route planner that discovers tourist attractions and scenic stops between your starting point and destination using Gemini AI.",
+  "requestFramePermissions": []
+}
